@@ -13,7 +13,7 @@ function Cart() {
     // console.log(productAdd) 
     
     let total = cartList.reduce((acc,el)=>{
-      return acc + el.subtotal
+      return acc + el.subtotal+(+el.shipFee)
     },0);
     const handleRemove = (id) => {
       // dispatch(cartAdd(id));
