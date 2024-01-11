@@ -15,7 +15,7 @@ export const data = [
         "category": "smartphones",
         "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
         "images": [
-            "https://i.dummyjson.com/data/products/1/1.jpg",
+            "https://cdn1.smartprix.com/rx-i6Ib9yI1R-w280-h280/apple-iphone-8-plus.webp",
             "https://i.dummyjson.com/data/products/1/2.jpg",
             "https://i.dummyjson.com/data/products/1/3.jpg",
             "https://i.dummyjson.com/data/products/1/4.jpg",
@@ -37,7 +37,7 @@ export const data = [
         "category": "smartphones",
         "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
         "images": [
-            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://cdn1.smartprix.com/rx-idOTtHudy-w280-h280/realme-c35.webp",
             "https://i.dummyjson.com/data/products/2/2.jpg",
             "https://i.dummyjson.com/data/products/2/3.jpg",
             "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
@@ -58,7 +58,7 @@ export const data = [
         "category": "smartphones",
         "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
         "images": [
-            "https://i.dummyjson.com/data/products/3/1.jpg"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT00qOcyUTs31XyTfSoIPPkQBrqlAoYvu9e6EUFUZ3zJA&s"
         ]
     },
     {
@@ -76,7 +76,7 @@ export const data = [
         "category": "smartphones",
         "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
         "images": [
-            "https://i.dummyjson.com/data/products/4/1.jpg",
+            "https://img.giznext.com/assets/model/9/3340/oppo-f19-cf622c021167eced0657cd0ecff07e.jpg?width=360",
             "https://i.dummyjson.com/data/products/4/2.jpg",
             "https://i.dummyjson.com/data/products/4/3.jpg",
             "https://i.dummyjson.com/data/products/4/4.jpg",
@@ -98,7 +98,7 @@ export const data = [
         "category": "smartphones",
         "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
         "images": [
-            "https://i.dummyjson.com/data/products/5/1.jpg",
+            "https://m.media-amazon.com/images/I/51zDfRUUhHL.jpg",
             "https://i.dummyjson.com/data/products/5/2.jpg",
             "https://i.dummyjson.com/data/products/5/3.jpg"
         ]
